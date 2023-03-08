@@ -1,0 +1,25 @@
+page_type,url,amount,amount_previous,datetime,logged_user,event,product_id
+home,nice-store.com,3,2,2023-03-05 17:48:14.110603,True,cart_update,43213
+contact,cool-shop.com,23,8,2023-03-01 17:48:14.110650,False,cart_update,1233
+sellers,amazing-webpage.com,13,10,2023-03-06 17:48:14.110678,True,cart_update,43213
+home,amazing-webpage.com,13,12,2023-03-02 17:48:14.110706,False,cart_update,5465
+sellers,nice-store.com,9,0,2023-03-04 17:48:14.110732,True,cart_update,1233
+sellers,amazing-webpage.com,1,0,2023-02-28 17:48:14.110759,True,cart_update,43213
+home,amazing-webpage.com,4,4,2023-03-07 17:48:14.110786,False,cart_update,5465
+home,cool-shop.com,16,8,2023-03-04 17:48:14.110812,False,cart_update,4343
+home,cool-shop.com,6,4,2023-03-02 17:48:14.110838,True,cart_update,1234
+contact,cool-shop.com,19,0,2023-03-06 17:48:14.110871,False,cart_update,1234
+contact,amazing-webpage.com,18,3,2023-03-06 17:48:14.110904,False,cart_update,5465
+sellers,cool-shop.com,6,6,2023-03-02 17:48:14.110931,True,cart_update,1233
+home,cool-shop.com,11,1,2023-03-04 17:48:14.110957,False,cart_update,5465
+sellers,cool-shop.com,14,14,2023-03-05 17:48:14.110983,False,cart_update,4343
+contact,amazing-webpage.com,13,7,2023-03-07 17:48:14.111009,True,cart_update,43213
+sellers,cool-shop.com,22,1,2023-03-03 17:48:14.111035,True,cart_update,43213
+contact,amazing-webpage.com,7,1,2023-03-07 17:48:14.111063,False,cart_update,43213
+contact,nice-store.com,13,6,2023-03-06 17:48:14.111089,True,cart_update,5465
+home,cool-shop.com,16,15,2023-03-04 17:48:14.111115,False,cart_update,1233
+sellers,amazing-webpage.com,3,2,2023-03-04 17:48:14.111140,True,cart_update,1233
+contact,amazing-webpage.com,20,15,2023-03-03 17:48:14.111168,False,cart_update,1233
+sellers,nice-store.com,4,0,2023-03-07 17:48:14.111195,False,cart_update,5465
+contact,nice-store.com,10,6,2023-03-04 17:48:14.111220,True,cart_update,5465
+sellers,cool-shop.com,10,0,2023-03-02 17:48:14.111246,True,cart_update,43213
